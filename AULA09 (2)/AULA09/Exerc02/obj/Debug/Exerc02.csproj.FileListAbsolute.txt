@@ -1,0 +1,6 @@
+C:\Users\profteste\Desktop\AULA09\Exerc02\bin\Debug\Exerc02.exe.config
+C:\Users\profteste\Desktop\AULA09\Exerc02\bin\Debug\Exerc02.exe
+C:\Users\profteste\Desktop\AULA09\Exerc02\bin\Debug\Exerc02.pdb
+C:\Users\profteste\Desktop\AULA09\Exerc02\obj\Debug\Exerc02.exe
+C:\Users\profteste\Desktop\AULA09\Exerc02\obj\Debug\Exerc02.pdb
+C:\Users\profteste\Desktop\AULA09\Exerc02\obj\Debug\Exerc02.csprojResolveAssemblyReference.cache

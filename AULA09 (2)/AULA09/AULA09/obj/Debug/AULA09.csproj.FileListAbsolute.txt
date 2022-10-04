@@ -1,0 +1,6 @@
+C:\Users\profteste\Desktop\AULA09\AULA09\bin\Debug\AULA09.exe.config
+C:\Users\profteste\Desktop\AULA09\AULA09\bin\Debug\AULA09.exe
+C:\Users\profteste\Desktop\AULA09\AULA09\bin\Debug\AULA09.pdb
+C:\Users\profteste\Desktop\AULA09\AULA09\obj\Debug\AULA09.csprojResolveAssemblyReference.cache
+C:\Users\profteste\Desktop\AULA09\AULA09\obj\Debug\AULA09.exe
+C:\Users\profteste\Desktop\AULA09\AULA09\obj\Debug\AULA09.pdb
